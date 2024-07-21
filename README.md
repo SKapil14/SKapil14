@@ -1,6 +1,6 @@
 Certainly, here's an improved version of your introduction to make it more credible and informative:
 
-- 👋 Hi, I'm Kapil, a dedicated 2nd-year BCA (Bachelor of Computer Applications) student.
+- 👋 Hi, I'm Kapil, a dedicated 3rd-year BCA (Bachelor of Computer Applications) student.
 - 👀 I'm passionate about web development, particularly as a front-end developer, and I'm enthusiastic about cybersecurity.
 - 🌱 Currently, I'm actively learning and expanding my skills in Java, Python, to strengthen my programming expertise.
 - 💼 I'm open to collaboration on web development projects and cybersecurity initiatives to gain real-world experience and contribute to meaningful projects.
